@@ -1,0 +1,30 @@
+*{box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 40px;
+    background-color: lightskyblue;
+}
+
+.listName {
+    font-size: 50px;
+    text-shadow: 1px 1px 1px black;
+}
+
+form {
+    margin: 0;
+    padding: 0;
+    padding-top: 50px;
+}
+
+h2 {
+    color: rgb(234, 73, 73);
+    text-shadow: 1px 1px 1px black;
+}
+
+h3 {
+    padding-top: 60px;
+    color: rgb(234, 73, 73);
+    text-shadow: 1px 1px 1px black;
+}
